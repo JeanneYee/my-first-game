@@ -1,0 +1,17 @@
+{
+    "name": "My First Game",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "TomatoCube Arcade Sprites": "github:tomatocube18/tomatocube-arcade-sprites#450fc21276c2ea6e9f35c2b012c4ea303c66e54d"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "tsprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
